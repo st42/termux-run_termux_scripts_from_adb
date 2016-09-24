@@ -3,7 +3,7 @@
 
 If you want to run a Termux script from adb use one of the following methods:
 
-**Method 1:**
+**Method 1:**  
 This method will run the script regardless of whether a Termux shell is already running not.  
 However you have to allow adb root access on your phone.
 ```
